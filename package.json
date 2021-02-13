@@ -1,0 +1,22 @@
+{
+  "name": "stylelint-configuration",
+  "version": "1.0.0",
+  "description": "Stylelint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr-montasir/stylelint-configuration.git"
+  },
+  "keywords": [
+    "stylelint-configuration"
+  ],
+  "author": "Montasir Mirghani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dr-montasir/stylelint-configuration/issues"
+  },
+  "homepage": "https://github.com/dr-montasir/stylelint-configuration#readme"
+}
